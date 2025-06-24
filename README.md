@@ -2,8 +2,7 @@
 
 **Created by:** Jose Mondragon  
 **Project:** Secure Password Manager with JavaDoc Documentation  
-**Date:** June 3, 2025  
-**Course:** CSC 6301 - Software Design & Documentation
+**Date:** June, 2025  
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
